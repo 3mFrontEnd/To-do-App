@@ -1,0 +1,12 @@
+body{
+    background: url('./image/background.png')no-repeat;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center center;
+}
+
+
+.list-group-item >span,
+.list-group-item >img{
+    cursor: pointer;
+}
